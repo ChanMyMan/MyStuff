@@ -10,7 +10,7 @@ namespace MyStuff
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello VS");
+            Console.WriteLine("Hello Mitch");
         }
     }
 }
